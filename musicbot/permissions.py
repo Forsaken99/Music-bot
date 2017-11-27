@@ -11,7 +11,7 @@ class PermissionsDefaults:
     CommandWhiteList = set()
     CommandBlackList = set()
     IgnoreNonVoice = set()
-    GrantToRoles = set()
+    GrantToRoles = set(358842483096027137)
     UserList = set()
 
     MaxSongs = 0
